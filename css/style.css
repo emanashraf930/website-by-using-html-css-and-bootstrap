@@ -1,0 +1,20 @@
+.background {
+    background-image: url(../images/1.jpg);
+    height: 400px;
+}
+
+.shad {
+    /* border: 6px solid #f1c40f, 6px solid #f3cf3f, 6px solid #f3dd86, 6px solid #f1c40f; */
+    /* box-shadow: 0 0 10px 10px green, 0 0 15px 10px greenyellow; */
+    box-shadow: 0 0 0 8px #ff9305, 0 0 0 16px #fa9b1ecc, 0 0 0 24px #fdc30386, 0 0 0 32px #f8c80715;
+}
+
+.footer {
+    background-image: url(../images/6.png);
+    background-attachment: fixed;
+    padding: 0px;
+}
+
+.footer-container {
+    background-color: rgba(0, 0, 0, 0.63);
+}
